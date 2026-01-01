@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am currently working as an intern in chiprama<br>i am a web developer <br>i am currently learning cloud computing and generative ai tools <br><br>
+I am currently working as an intern in chiparama<br>I am a web developer <br>I am currently learning cloud computing and generative ai tools <br><br>
 
 
 ## 🌐 Socials:
